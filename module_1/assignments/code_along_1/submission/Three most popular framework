@@ -1,0 +1,31 @@
+The 3 most popular front-end frameworks:
+
+1. React
+Pros:
+- Easy to learn and use due to the abundance of online resources
+- Good support of developer tools such as Chrome and Firefox extensions
+- Rich JavaScript library provides more flexibility to web developers
+Cons:
+- Poor documentation due to constant updates
+- High pace of development may cause difficulty to adapt
+- Only covers the UI layers of the app 
+
+2. Angular
+Pros:
+- Dependable and trustworthy framework with detailed documentation
+- Great selection of third-party integrations
+- Faster load time and increased security
+Cons:
+- Steep learning curve as web developers need to be familiar with TypeScript
+- Limited SEO options and poor accessibility for search engine crawlers 
+- CLI documentation lacks details
+
+3. Vue.js
+Pros:
+- Extensive documentation
+- Simple to understand and absorb due to low learning curve
+- Lightweight with the main package gzipped only weighing 18kB
+Cons:
+- Smaller number of components and plug-ins
+- Risk of over flexibility 
+- Language barrier due to its biggest community being located in China
