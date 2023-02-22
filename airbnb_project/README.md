@@ -1,3 +1,6 @@
+Here is the Link for my app
+https://chenteiklim.github.io/Airbnb-clone/
+
 ## Airbnb Clone
 
 Build Airbnb Clone with Tailwind CSS!
@@ -23,3 +26,4 @@ We will be focusing on Tailwind CSS, including:
     ![image](https://user-images.githubusercontent.com/63979210/130708733-a88ab00b-01e3-4961-9689-9f744112e758.png)
 
 ## We will also look into mobile responsive and how to configure JIT compiler
+
