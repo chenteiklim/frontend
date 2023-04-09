@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>API</title>
+    <link rel="stylesheet" href="style.css">
+    
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body>
+    <main>
+        <div class="container mx-auto py-[2em] px-[5em]">
+            <div class="p-4 mb-4 text-sm text-green-800 rounded-lg bg-green-50 dark:bg-gray-800 dark:text-green-400" role="alert" id="alert-success">
+                <span class="font-bold">Success!</span> API call is successful
+              </div>
+              <div class="p-4 mb-4 text-sm text-red-800 rounded-lg bg-red-50 dark:bg-gray-800 dark:text-red-400" role="alert" id="alert-fail">
+                <span class="font-bold">Error!</span> API call is unsuccessful, please try again
+              </div>
+            <p class="2xl font-bold text-center">My Lovely Colors</p>
+            <div class="grid grid-cols-3 gap-7" id="main-container"> 
+            </div>
+
+        </div>
+    </main>
+    <script
+  src="https://code.jquery.com/jquery-3.6.4.min.js"
+  integrity="sha256-oP6HI9z1XaZNBrJURtCoUT5SUnxFr8s3BzRl+cbzUq8="
+  crossorigin="anonymous"></script>
+  
+    <script src="app.js"></script>    
+    
+</body>
+</html>
